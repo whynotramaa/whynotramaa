@@ -1,21 +1,18 @@
-
-<div style="display: flex; align-items: center; gap: 20px; padding: 20px 40px;">
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://img.clerk.com/static/logo-light-mode-400x400.png" alt="Clerk" width="50" height="50"/>
-  <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" width="50" height="50"/>
-  <img src="https://images.ctfassets.net/fzn2n1nzq965/HTTOloNPhisV9P4hlMPNA/cacf1bb88b9fc492dfad34378d844280/Stripe_icon_-_square.svg" alt="Stripe" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Drizzle" width="50" height="50"/>
-  <img src="https://cdn.brandfetch.io/idsSceG8fK/w/436/h/449/theme/dark/symbol.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Supabase" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="50" height="50"/>
-  <img src="https://cdn.brandfetch.io/idvS_RDVeX/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Appwrite" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://convex.dev/favicon.ico" alt="Convex" width="50" height="50"/>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat&logo=appwrite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Convex-EE342F?style=flat&logo=convex&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </div>
+
 <br/>
 
-<div align="center">
-  <i>Building the web, one component at a time ✨</i>
-</div>
+<p><i>Building the web, one component at a time ✨</i></p>
